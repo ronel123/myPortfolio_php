@@ -70,7 +70,9 @@
 
          <div class="three columns">
 
-            <img class="profile-pic" src="<?php echo validate_image("avatar") ?>" alt="" />
+            <!-- <img class="profile-pic" src="<?php echo validate_image("avatar") ?>" alt="" /> -->
+            
+            <img src="uploads/1675272060_ronel.png" alt="" id="modal" class="img-fluid img-thumbnail">
 
          </div>
 
